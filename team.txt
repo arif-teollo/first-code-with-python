@@ -1,2 +1,2 @@
-leader : arif
-staff : -
+leader : Nur Arif
+staff : feri
